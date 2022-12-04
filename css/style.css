@@ -1,0 +1,114 @@
+.container{
+    max-width: 2366px;
+    width: 100%;
+    margin: 0 auto;
+    border: 2px solid blueviolet;
+}
+.div1{
+    max-width: 2366px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+header{
+    width: 30%;
+    /* border: 2px solid pink; */
+    background-color: #020237;
+    display: flex;
+    justify-content: center;
+    
+}
+.headerp{
+    font-size: 30px;
+    color: #ffffff;
+    padding: 20px 0;
+
+}
+.menu{
+    width: 90%;
+    /* border: 2px solid red; */
+    background-color: #7a1d3c;
+    display: flex;
+    justify-content: center;
+}
+.menup{
+    font-size: 30px;
+    color: #ffffff;
+    padding: 20px 0;
+
+}
+.hero{
+    width: 100%;
+    height: 500px;
+    background-color: #5656e1;
+    display: flex;
+    justify-content: center;
+    
+}
+.herop{
+    font-size: 30px;
+    color: #ffffff;
+    padding: 220px 0;
+}
+
+.main{
+    width: 40%;
+    height: 350px;
+    background-color: #101048;
+    display: flex;
+    justify-content: center;
+}
+.mainp{
+    font-size: 30px;
+    color: #ffffff;
+    padding: 170px 0;
+}
+
+.boxes{
+    width: 30%;
+    /* border: 2px solid green; */
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+.image{
+    width: 100%;
+    height: 175px;
+    background-color: #82be82;
+    display: flex;
+    justify-content: center;
+
+}
+.extra{
+    width: 100%;
+    height: 175px;
+    background-color: #468646;
+    display: flex;
+    justify-content: center;
+}
+.imagep{
+    font-size: 30px;
+    color: #111111;
+    padding: 80px 0;
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #e4ce23;
+    display: flex;
+    justify-content: center;
+}
+.footerp{
+    font-size: 30px;
+    color: #111111;
+    padding: 40px 0;
+}
+
+@media screen (max-width: 780px)
+    {
+    
+}
